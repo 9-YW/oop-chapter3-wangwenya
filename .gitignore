@@ -1,0 +1,13 @@
+# Build products
+*.exe
+*.o
+*.obj
+
+# Visual Studio user state
+.vs/
+Debug/
+Release/
+x64/
+
+# Local editor files
+.vscode/
